@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
- # Proyecto hecho en android studio
+Proyecto hecho en android studio
 </p>
 
 <p align="center">
