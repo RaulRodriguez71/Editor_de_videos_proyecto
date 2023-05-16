@@ -1,4 +1,4 @@
-# PIXELEDIT
+# PIXELIZE
 <p align="center">
 <img src="https://img.shields.io/badge/MIN%20SDK-21-green" width="8%" height="8%" />
 <img src="https://img.shields.io/badge/BUILD%20SDK-33-brightgreen" width="10%" height="10%" />
