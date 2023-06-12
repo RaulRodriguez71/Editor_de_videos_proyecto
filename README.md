@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/MIN%20SDK-21-green" width="9%" height="9%" />
 <img src="https://img.shields.io/badge/BUILD%20SDK-32-brightgreen" width="10%" height="10%" />
 <img src="https://img.shields.io/badge/PLATFORM-ANDROID-success" width="14%" height="14%" />
-<img src="https://img.shields.io/badge/VERSION-0.4.0-blue" width="10%" height="10%" />
+<img src="https://img.shields.io/badge/VERSION-0.5.0-blue" width="10%" height="10%" />
   
 </p>
 
