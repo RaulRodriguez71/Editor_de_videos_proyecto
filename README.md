@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/RaulRodriguez71/Editor_de_videos_proyecto/blob/main/Imagenes/icono_app2.png?raw=true" width="20%" height="20%" />
+<img src="https://github.com/RaulRodriguez71/Editor_de_videos_proyecto/blob/main/Imagenes/icono_app.png?raw=true" width="20%" height="20%" />
 </p>
 
 <p align="center">
