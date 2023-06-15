@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/MIN%20SDK-21-green" width="9%" height="9%" />
 <img src="https://img.shields.io/badge/BUILD%20SDK-32-brightgreen" width="10%" height="10%" />
 <img src="https://img.shields.io/badge/PLATFORM-ANDROID-success" width="14%" height="14%" />
-<img src="https://img.shields.io/badge/VERSION-0.6.0-blue" width="10%" height="10%" />
+<img src="https://img.shields.io/badge/VERSION-1.0.3-blue" width="10%" height="10%" />
   
 </p>
 
@@ -21,10 +21,13 @@ Proyecto hecho en android studio
 
 # Funcionalidades del editor
 <br>
-* Aplicar un filtro al video.<br>
-* Grabar audios, videos y capturar imagenes.<br>
-* Importar videos desde la galeria como tambien fotos y audios.<br>
+* Aplicar filtros al video.<br>
+* Grabar videos.<br>
+* Importar videos desde la galeria.<br>
 * Cambiar el volumen de los videos.<br>
 * Recortar los videos.<br>
+* Girar los videos.<br>
 * Ajustes personalizados.<br>
 * Acelerar el video.<br>
+* Ralentizar el video.<br>
+* Convertir un video a GIF.<br>
